@@ -1,15 +1,67 @@
-KOSPI VS TOPIX (2010 - 2026) Performance,,,,,,,
-Korean Tickers,Company Name,Price ,HR,Japan Ticker,Company Name,Price ,HR
-KRX,KOSPI,"6,358.95",352.79%,TOPIX,Tokyo Stock Price Index,4046.17,153%
-KRX:004990,Lotte Corp,"22,650",-37.68%,TYO:3382,Seven & I Holdings,"1,990.00",178%
-KRX:267260,HD Hyundai Electric Co Ltd,716000.00,1243.11%,TYO:9984,SoftBank Group ,"5,552.00",1164300%
-KRX:028260,Samsung C&T Corp,322500.00,149.03%,TYO:8015,Toyota Tsusho Corporation,"7,424.00",266300%
-KRX:009150,Samsung Electro-Mechanics Co Ltd,1185000.00,3910.15%,TYO:6981,Murata Manufacturing Co,"7,263.00",81040%
-KRX:051910,LG Chem Ltd,256500.00,486.26%,TYO:4519,Chugai Pharmaceutical,"6,857.00",153300%
-KRX:011170,Lotte Chemical Corp,57700.00,15.69%,TYO:4503,Astellas Pharma Inc,"2,327.00",296%
-KRX:207940,Samsung Biologics Co Ltd,1476000.00,823.63%,TYO:5016,JX Advanced Metals Corporation,"3,886.00",344.62%
-KRX:051900,LG H&H Co Ltd,291500.00,386.64%,TYO:7012,Kawasaki Heavy Industries,"2,778.50",144%
-KRX:068270,Celltrion Inc,185800.00,5806.19%,TYO:5401,Nippon Steel Corporation ,697.50,-9%
-KRX:326030,SK Biopharmaceuticals Co Ltd,79800.00,-5164.00%,TYO:6525,Kokusai Electric Corporation,"8,136.00",246%
-KRX:000660,SK Hynix Inc,1577000.00,6756.52%,TYO:4204,Sekisui Chemincal Co,"2,684.50",120%
-Custom Index,Index Total Returns,"6,176,808.95",14728.33%,Custom Index ,Index Total Returns,53641.67,1666412%
+17-Aug-26,,,,,,,,,,,
+,,,,,,,,,,,
+South Korea (Tickers),Company Name,Base Price,Price,Returns(%),,,Japan (Tickers),Company Name,Base Price,Price ,Returns(%)
+KRX,KOSPI," ?1,404.42 "," ?6,977.94 ",397%,,,TOPIX,Tokyo Stock Price Index," ù1,599.28 "," ù4,184.11 ",161.62%
+KRX:004990,Lotte Corp," ?36,358.80 "," ?22,200.00 ",-39%,,,TYO:3382,Seven & I Holdings, ù715.83 ," ù2,334.00 ",226.06%
+KRX:267260,HD Hyundai Electric Co Ltd," ?53,312.50 "," ?752,000.00 ",1311%,,,TYO:9984,SoftBank Group , ù0.48 ," ù5,886.00 ",1234344%
+KRX:028260,Samsung C&T Corp," ?129,502.30 "," ?347,500.00 ",168%,,,TYO:8015,Toyota Tsusho Corporation, ù2.79 ," ù7,387.00 ",264972%
+KRX:009150,Samsung Electro-Mechanics Co Ltd," ?29,551.50 "," ?1,593,000.00 ",5291%,,,TYO:6981,Murata Manufacturing Co, ù8.95 ," ù8,235.00 ",91880.34%
+KRX:051910,LG Chem Ltd," ?43,752.20 "," ?278,000.00 ",535%,,,TYO:4519,Chugai Pharmaceutical, ù4.47 ," ù7,112.00 ",158994%
+KRX:011170,Lotte Chemical Corp," ?49,892.70 "," ?55,200.00 ",11%,,,TYO:4503,Astellas Pharma Inc, ù587.63 ," ù2,283.00 ",288.51%
+KRX:207940,Samsung Biologics Co Ltd," ?159,813.40 "," ?1,481,000.00 ",827%,,,TYO:5016,JX Advanced Metals Corporation, ù874.03 ," ù3,785.00 ",333.05%
+KRX:051900,LG H&H Co Ltd," ?59,904.40 "," ?248,500.00 ",315%,,,TYO:7012,Kawasaki Heavy Industries," ù1,138.73 "," ù2,778.50 ",144.00%
+KRX:068270,Celltrion Inc," ?3,145.66 "," ?201,000.00 ",6290%,,,TYO:5401,Nippon Steel Corporation , ù766.48 , ù676.30 ,-11.77%
+KRX:326030,SK Biopharmaceuticals Co Ltd,"-?1,575.60 "," ?93,000.00 ",6003%,,,TYO:6525,Kokusai Electric Corporation," ù2,351.45 "," ù9,288.00 ",294.99%
+KRX:000660,SK Hynix Inc," ?22,999.10 "," ?1,645,000.00 ",7052%,,,TYO:4204,Sekisui Chemincal Co," ù1,220.23 "," ù2,655.50 ",117.62%
+,,,,,,,,,,,
+Custom Index,Total Price/Returns," ?588,061.38 "," ?6,723,377.94 ",28160%,,,Custom Index ,Total Price/Returns," ù8,050.117 "," ù56,604.41 ",1751744%
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+United States Currency Intervention ,,,,,,,,,,,
+,,,,,,,,,,,
+Dates,KRW,JPY,,,,,,,,,
+1/1/2024,,,,,,,,,,,
+7/10/2024,,,,,,,,,,,
+9/7/2024,,,,,,,,,,,
+1/10/2025,,,,,,,,,,,
+7/5/2025,,,,,,,,,,,
+9/17/2025,,,,,,,,,,,
+1/20/2026,,,,,,,,,,,
+7/30/2026,,,,,,,,,,,
+9/27/2026,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
